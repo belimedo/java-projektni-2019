@@ -1,0 +1,298 @@
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader readProperties
+SEVERE: config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader readProperties
+SEVERE: config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:42:39 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader readProperties
+SEVERE: config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader readProperties
+SEVERE: config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:43:20 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader readProperties
+SEVERE: properties;config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: properties;config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader readProperties
+SEVERE: properties;config.properties (The system cannot find the file specified)
+java.io.FileNotFoundException: properties;config.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:44:11 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:52:31 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 9:54:51 AM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader readProperties
+SEVERE: ..\properties\config.properties (The system cannot find the path specified)
+java.io.FileNotFoundException: ..\properties\config.properties (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:94)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:64)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at controller.watcher.Watcher.<clinit>(Watcher.java:23)
+	at controller.config.ConfigReader.<init>(ConfigReader.java:69)
+	at controller.config.ConfigReader.getConfigReaderInstance(ConfigReader.java:89)
+	at simulation.TestSimulation.<clinit>(simulation.TestSimulation.java:14)
+
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Width is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Number of altitudes is invalid! It has been set to default value of 4. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Rocket range is invalid! It has been set to default value of 20. 
+Aug 30, 2019 12:37:37 PM controller.config.ConfigReader checkProperties
+WARNING: Backup period is invalid! It has been set to default value of 60 seconds. 
+Sep 04, 2019 8:04:47 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Sep 04, 2019 8:04:48 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Sep 04, 2019 8:08:01 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Sep 04, 2019 8:08:01 AM controller.config.ConfigReader checkProperties
+WARNING: Height is invalid! It has been set to default value of 20. 
+Sep 04, 2019 8:18:36 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 
+Sep 04, 2019 8:18:36 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 
+Sep 04, 2019 8:20:17 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 
+Sep 04, 2019 8:20:17 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 

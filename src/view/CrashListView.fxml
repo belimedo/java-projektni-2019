@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="530.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.CrashListController">
+   <center>
+      <ScrollPane fitToHeight="true" fitToWidth="true" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <content>
+            <TableView fx:id="crashTable" prefHeight="400.0" prefWidth="530.0" style="-fx-background-color: silver;">
+              <columns>
+                  <TableColumn fx:id="crashIdColumn" prefWidth="57.0" style="-fx-background-color: darkorange;" text="Crash ID:" />
+                <TableColumn fx:id="firstAircraftColumn" prefWidth="130.0" style="-fx-background-color: lightgray;" text="First aircraft type" />
+                <TableColumn fx:id="secondAircraftColumn" prefWidth="130.0" style="-fx-background-color: darkorange;" text="Second aircraft type" />
+                  <TableColumn fx:id="posXColumn" prefWidth="70.0" style="-fx-background-color: lightgray;" text="Position X" />
+                  <TableColumn fx:id="posYColumn" prefWidth="70.0" style="-fx-background-color: darkorange;" text="Position Y" />
+                  <TableColumn fx:id="altitudeColumn" prefWidth="70.0" style="-fx-background-color: lightgray;" text="Altitude:" />
+              </columns>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" right="2.0" />
+               </padding>
+            </TableView>
+         </content>
+      </ScrollPane>
+   </center>
+</BorderPane>

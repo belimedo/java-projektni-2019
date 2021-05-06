@@ -1,0 +1,15 @@
+FirefighterHelicopter#0#4#RIGHT#2
+Drone#0#19#LEFT#0
+FirefighterHelicopter#1#8#DOWN#1
+Drone#2#0#RIGHT#1
+TransportingHelicopter#2#3#RIGHT#2
+TransportingHelicopter#2#6#DOWN#2
+PassengerAirplane#4#10#DOWN#3
+TransportingAirplane#4#15#LEFT#1
+PassengerHelicopter#5#7#UP#1
+FirefighterHelicopter#6#17#DOWN#2
+Drone#8#1#DOWN#0
+PassengerAirplane#12#0#UP#0
+PassengerAirplane#12#1#RIGHT#2
+FirefighterHelicopter#13#19#UP#0
+PassengerAirplane#14#17#LEFT#1

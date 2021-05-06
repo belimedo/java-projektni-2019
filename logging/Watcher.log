@@ -1,0 +1,568 @@
+Aug 30, 2019 1:39:55 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 1:39:55 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 1:43:48 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 1:43:48 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 1:47:10 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 1:47:10 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.config.ConfigReader with modifiers "private"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+
+Aug 30, 2019 3:56:55 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 3:56:55 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:64)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 4:13:46 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class controller.simulator.Simulator with modifiers "private synchronized"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class controller.simulator.Simulator with modifiers "private synchronized"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:59:51 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 6:59:51 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 7:07:47 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 7:07:47 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 7:25:23 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 30, 2019 7:25:23 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 1:47:15 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:47:15 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:47:15 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:48:54 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:48:55 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:48:55 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:49:47 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:49:47 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:49:48 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:50:16 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:50:17 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:50:17 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:51:33 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:51:33 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 1:51:34 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 3:56:30 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 3:56:30 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 3:56:31 PM controller.watcher.Watcher run
+SEVERE: radar\map.txt
+java.nio.file.NotDirectoryException: radar\map.txt
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Aug 31, 2019 5:33:55 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 5:33:55 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 5:38:00 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 5:38:00 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:101)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 5:53:50 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 6:46:57 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 7:07:10 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Aug 31, 2019 7:11:56 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 10:34:09 AM controller.watcher.Watcher run
+SEVERE: properties\config.properties
+java.nio.file.NotDirectoryException: properties\config.properties
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.implRegister(WindowsWatchService.java:379)
+	at java.base/sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:265)
+	at java.base/sun.nio.fs.WindowsWatchService$Poller.run(WindowsWatchService.java:596)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+Sep 01, 2019 10:35:43 AM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 10:55:45 AM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 2:08:25 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 2:09:52 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 3:08:11 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+
+Sep 01, 2019 4:34:45 PM controller.watcher.Watcher run
+SEVERE: class controller.watcher.Watcher cannot access a member of class view.MapController with modifiers "private synchronized"
+java.lang.IllegalAccessException: class controller.watcher.Watcher cannot access a member of class view.MapController with modifiers "private synchronized"
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:361)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:589)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:556)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Sep 01, 2019 7:33:28 PM controller.watcher.Watcher run
+SEVERE: null
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+Caused by: java.lang.NullPointerException
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1838)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at controller.config.ConfigReader.readProperties(ConfigReader.java:102)
+	at controller.config.ConfigReader.updateProperties(ConfigReader.java:85)
+	... 5 more
+

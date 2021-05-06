@@ -1,0 +1,1512 @@
+Aug 30, 2019 6:13:59 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_13_59_770.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_13_59_770.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:13:59 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_13_59_770.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_13_59_770.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:13:59 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_13_59_778.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_13_59_778.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:13:59 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_13_59_778.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_13_59_778.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_790.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_790.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_790.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_790.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_811.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_811.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_811.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_811.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_814.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_814.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_814.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_814.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_819.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_819.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:00 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_00_819.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_00_819.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_830.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_830.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_830.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_830.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_833.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_833.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_833.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_833.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_838.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_838.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_838.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_838.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_844.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_844.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_844.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_844.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_851.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_851.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_851.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_851.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_857.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_857.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:01 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_01_857.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_01_857.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_876.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_876.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_876.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_876.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_887.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_887.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_887.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_887.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_917.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_917.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_917.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_917.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_921.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_921.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_921.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_921.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_923.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_923.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:02 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_923.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_923.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:03 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_935.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_935.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:03 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_935.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_935.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:03 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_953.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_953.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:03 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_02_953.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_02_953.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_079.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_079.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_079.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_079.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_088.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_088.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_088.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_088.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_091.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_091.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_091.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_091.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_236.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_236.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_236.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_236.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_248.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_248.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_248.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_248.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_255.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_255.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_255.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_255.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_268.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_268.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_268.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_268.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_273.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_273.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_273.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_273.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_289.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_289.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:04 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_04_289.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_04_289.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_437.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_437.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_437.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_437.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_527.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_527.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_527.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_527.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_536.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_536.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_536.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_536.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_542.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_542.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_542.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_542.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_560.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_560.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_560.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_560.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_567.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_567.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_567.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_567.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_572.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_572.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_572.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_572.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_578.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_578.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_578.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_578.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_582.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_582.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_582.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_582.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_598.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_598.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_598.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_598.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_606.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_606.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_606.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_606.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_613.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_613.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_613.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_613.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_648.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_648.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:14:05 PM controller.simulator.Simulator defendAirspace
+WARNING: Simulator couldn't find file with enemy aircraft description.
+events2019_08_30_18_14_05_648.txt (The system cannot find the file specified)
+java.io.FileNotFoundException: events2019_08_30_18_14_05_648.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:94)
+	at java.base/java.io.FileReader.<init>(FileReader.java:58)
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:91)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:44 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:93)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:44 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:44 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:45 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:45 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:45 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:45 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:57 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 30, 2019 6:26:57 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:199)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:32 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:32 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:32 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:32 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:33 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:33 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:33 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:32:33 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:42:39 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:100)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:48 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:48 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:48 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:48 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:49 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Aug 31, 2019 5:43:49 PM controller.simulator.Simulator defendAirspace
+SEVERE: Something went wrong with allied airplanes!
+null
+java.lang.NullPointerException
+	at controller.simulator.Simulator.defendAirspace(Simulator.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at controller.watcher.Watcher.run(Watcher.java:70)
+
+Sep 04, 2019 8:18:36 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 
+Sep 04, 2019 8:18:36 AM controller.config.ConfigReader checkProperties
+WARNING: Creation interval is invalid! It has been set to default value of 2.5 seconds. 

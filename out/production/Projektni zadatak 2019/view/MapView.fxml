@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="720.0" style="-fx-background-color: darkorange;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.MapController">
+   <top>
+      <HBox prefHeight="50.0" prefWidth="600.0" spacing="40.0" style="-fx-background-color: darkorange;" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="flightBan" mnemonicParsing="false" onAction="#toggleFlyingBan" prefHeight="25.0" prefWidth="125.0" textAlignment="CENTER" />
+            <Button fx:id="showAllCrashes" layoutX="20.0" layoutY="20.0" mnemonicParsing="false" onAction="#toggleCrashList" prefHeight="25.0" prefWidth="125.0" text="View crash list" textAlignment="CENTER" />
+            <Button fx:id="showAllEvents" layoutX="155.0" layoutY="20.0" mnemonicParsing="false" onAction="#toggleEventsList" prefHeight="25.0" prefWidth="125.0" text="View events list" textAlignment="CENTER" />
+            <Button fx:id="generateEnemyButton" layoutX="290.0" layoutY="20.0" mnemonicParsing="false" onAction="#toggleEnemyAircraft" prefHeight="25.0" prefWidth="150.0" text="Generate enemy aircraft" textAlignment="CENTER" />
+         </children>
+         <padding>
+            <Insets bottom="10.0" left="40.0" right="40.0" top="10.0" />
+         </padding>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </HBox>
+   </top>
+   <bottom>
+      <VBox alignment="TOP_CENTER" prefHeight="82.0" prefWidth="600.0" spacing="5.0" style="-fx-background-color: lightgray;" BorderPane.alignment="CENTER">
+         <children>
+            <Label id="eventsLabel1" fx:id="eventsLabel1" prefHeight="27.0" prefWidth="726.0" style="-fx-background-color: darkorange;">
+               <font>
+                  <Font size="14.0" />
+               </font></Label>
+            <Label id="enemyLabel2" fx:id="eventsLabel2" layoutX="10.0" layoutY="10.0" prefHeight="27.0" prefWidth="737.0" style="-fx-background-color: darkorange;">
+               <font>
+                  <Font size="14.0" />
+               </font></Label>
+            <Label id="eventsLabel3" fx:id="eventsLabel3" layoutX="10.0" layoutY="37.0" prefHeight="27.0" prefWidth="741.0" style="-fx-background-color: darkorange;">
+               <font>
+                  <Font size="14.0" />
+               </font></Label>
+         </children>
+      </VBox>
+   </bottom>
+   <center>
+      <ScrollPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: darkorange;" BorderPane.alignment="CENTER">
+         <padding>
+            <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+         </padding>
+         <content>
+            <GridPane id="mapGridPane" fx:id="mapGridPane" alignment="CENTER" gridLinesVisible="true" style="-fx-background-color: lightgray;" />
+         </content>
+      </ScrollPane>
+   </center>
+</BorderPane>
